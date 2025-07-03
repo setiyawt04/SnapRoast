@@ -7,7 +7,7 @@ export const memes = [
     {
         id: 2,
         text: "{name}, katanya hustle culture, tapi hidup lo stuck di loading screen.",
-        meme: "https://i.giphy.com/dIV7HapCtAzHE6N3j1.webp"
+        meme: "https://i.giphy.com/VFI5pfj4hamd2.webp"
     },
     {
         id: 3,
