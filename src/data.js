@@ -67,12 +67,12 @@ export const memes = [
     {
         id: 14,
         text: "{name}, katanya deep thinker, tapi pikiran lo lebih dangkal dari genangan abis hujan.",
-        meme: "https://i.giphy.com/xT9IgpUP5G6wQkLJ5i.webp"
+        meme: "https://i.giphy.com/kpy18R3NVSLy8.webp"
     },
     {
         id: 15,
         text: "{name}, lo bilang healing trip, tapi pulang tetep bawa overthinking.",
-        meme: "https://i.giphy.com/xTiTnzGJTI3ZbL5M6c.webp"
+        meme: "https://i.giphy.com/l22ysLe54hZP0wubek.webp"
     }, 
     {
         id: 16,
