@@ -8,8 +8,9 @@ formName.addEventListener("submit", function(e){
     const getFormData = new FormData(formName)
     const name = getFormData.get("name")
     
+    
     delayData.innerHTML = `
-        <img src="./assets/bouncing-circles.svg" class="loading"/>
+        <img src="./bouncing-circles.svg" class="loading"/>
         <p id="upload-text" class="text-center">Eitsss… bentar, lagi ngulik punchline biar lo nangis.</p>
     `
     setTimeout(function(){
